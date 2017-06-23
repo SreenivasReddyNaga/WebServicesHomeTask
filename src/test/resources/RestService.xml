@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TrainingTestSuite">
+
+	<test name="Rest Service Test">
+		
+		<classes>
+			<class name="org.epam.webservices.tests.WebServiceUsersTest" />
+		</classes>
+	</test>
+
+</suite>
